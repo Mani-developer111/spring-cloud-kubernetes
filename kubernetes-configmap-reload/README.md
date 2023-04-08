@@ -26,7 +26,7 @@ Pre-requisites[ TAKE AMAZON LINUX2 SYSTEM t2.micro]:
       sudo rpm --import https://jenkins-ci.org/redhat/jenkins-ci.org
       sudo yum install jenkins -y 
       sudo systemctl start jenkins
-    
+    Note: cat [Jenkins fole path for password]
     
     - Install Docker
     
